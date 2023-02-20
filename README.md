@@ -11,4 +11,4 @@
 </div>
 
 
-![Snake animation](https://github.com/vsanxz/vsanxz/blob/output/github-contribution-grid-snake.svg)
+
